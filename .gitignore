@@ -1,0 +1,44 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### other
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
+backend/.DS_Store
+backend/socialmediaapp/mvnw
+backend/socialmediaapp/mvnw.cmd
+backend/socialmediaapp/.mvn/wrapper/maven-wrapper.jar
+backend/socialmediaapp/.mvn/wrapper/maven-wrapper.properties
+backend/socialmediaapp/src/main/resources/application.properties
+.DS_Store
